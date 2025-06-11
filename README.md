@@ -137,7 +137,7 @@ git clone [repository-url]
 npm install
 
 # Start development server
-npm start
+npm run dev
 ```
 
 ### Building for Production
@@ -174,12 +174,7 @@ useEffect(() => {
 - E2E tests for user flows
 - Accessibility testing with axe-core
 
-## 🚀 Deployment
 
-The application is designed to be deployed on:
-- **Vercel**: Optimized for React applications
-- **Netlify**: Simple static site deployment
-- **GitHub Pages**: For demo purposes
 
 ## 📈 Performance Optimizations
 
@@ -204,12 +199,5 @@ The application is designed to be deployed on:
 - **Color Contrast**: Meets accessibility standards
 - **Focus Management**: Clear focus indicators
 
-## 📞 Support
-
-For questions or issues:
-- Email: [your-email]
-- GitHub Issues: [repository-issues-url]
-
----
 
 **Note**: This redesign maintains 100% functional parity with the original while providing a significantly enhanced user experience through modern design principles and improved accessibility.
